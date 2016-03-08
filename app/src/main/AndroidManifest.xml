@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.dieschnittstelle.mobile.android.views"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+   <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="16" />
+   
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <!-- activities demonstrating layouts -->
+
+        <activity
+            android:label="LinearLayout (horizontal)"
+            android:name=".layouts.LinearLayoutHorizontal" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:label="LinearLayout (vertikal)"
+            android:name=".layouts.LinearLayoutVertical" >
+        </activity>
+        <activity
+            android:label="TableLayout"
+            android:name=".layouts.TableLayout" >
+        </activity>
+        <activity
+            android:label="RelativeLayout"
+            android:name=".layouts.RelativeLayout" >
+        </activity>
+        <activity
+            android:label="FrameLayout"
+            android:name=".layouts.FrameLayout" >
+        </activity>
+        <activity
+            android:label="Composed Layout"
+            android:name=".layouts.ComposedLayout" >
+        </activity>
+
+        <!-- activities demonstrating widgets -->
+
+        <activity
+            android:label="TextView"
+            android:name=".widgets.TextViewActivity" >
+        </activity>
+        <activity
+            android:label="EditText (unbeschränkt)"
+            android:name=".widgets.EditTextActivity" >
+        </activity>
+        <activity
+            android:label="EditText (mit Einschränkungen)"
+            android:name=".widgets.EditTextNumericActivity" >
+        </activity>
+        <activity
+            android:label="EditText (mit Vervollständigung)"
+            android:name=".widgets.EditTextAutocompleteActivity" >
+        </activity>
+        <activity
+            android:label="Spinner"
+            android:name=".widgets.SpinnerActivity" >
+        </activity>
+        <activity
+            android:label="CheckBox"
+            android:name=".widgets.CheckBoxActivity" >
+        </activity>
+        <activity
+            android:label="ToggleButton"
+            android:name=".widgets.ToggleButtonActivity" >
+        </activity>
+        <activity
+            android:label="RadioButton"
+            android:name=".widgets.RadioButtonActivity" >
+        </activity>
+        <activity
+            android:label="RadioGroup"
+            android:name=".widgets.RadioGroupActivity" >
+        </activity>
+        <activity
+            android:label="DatePicker"
+            android:name=".widgets.DatePickerActivity" >
+        </activity>
+        <activity
+            android:label="Clickable Image"
+            android:name=".widgets.ClickableImageActivity" >
+        </activity>
+        <activity
+            android:label="ListView"
+            android:name=".widgets.ListViewActivity" >
+        </activity>
+        <activity
+            android:label="ContextMenu"
+            android:name="org.dieschnittstelle.mobile.android.views.widgets.OptionsMenuActivity" >
+        </activity>
+        <activity
+            android:label="Seekbar"
+            android:name=".widgets.SeekBarActivity" >
+        </activity>
+    </application>
+
+</manifest>

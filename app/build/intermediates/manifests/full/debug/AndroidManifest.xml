@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.dieschnittstelle.mobile.android.views"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="16" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <!-- activities demonstrating layouts -->
+
+        <activity
+            android:name="org.dieschnittstelle.mobile.android.views.layouts.LinearLayoutHorizontal"
+            android:label="LinearLayout (horizontal)" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.dieschnittstelle.mobile.android.views.layouts.LinearLayoutVertical"
+            android:label="LinearLayout (vertikal)" >
+        </activity>
+        <activity
+            android:name="org.dieschnittstelle.mobile.android.views.layouts.TableLayout"
+            android:label="TableLayout" >
+        </activity>
+        <activity
+            android:name="org.dieschnittstelle.mobile.android.views.layouts.RelativeLayout"
+            android:label="RelativeLayout" >
+        </activity>
+        <activity
+            android:name="org.dieschnittstelle.mobile.android.views.layouts.FrameLayout"
+            android:label="FrameLayout" >
+        </activity>
+        <activity
+            android:name="org.dieschnittstelle.mobile.android.views.layouts.ComposedLayout"
+            android:label="Composed Layout" >
+        </activity>
+
+        <!-- activities demonstrating widgets -->
+
+        <activity
+            android:name="org.dieschnittstelle.mobile.android.views.widgets.TextViewActivity"
+            android:label="TextView" >
+        </activity>
+        <activity
+            android:name="org.dieschnittstelle.mobile.android.views.widgets.EditTextActivity"
+            android:label="EditText (unbeschränkt)" >
+        </activity>
+        <activity
+            android:name="org.dieschnittstelle.mobile.android.views.widgets.EditTextNumericActivity"
+            android:label="EditText (mit Einschränkungen)" >
+        </activity>
+        <activity
+            android:name="org.dieschnittstelle.mobile.android.views.widgets.EditTextAutocompleteActivity"
+            android:label="EditText (mit Vervollständigung)" >
+        </activity>
+        <activity
+            android:name="org.dieschnittstelle.mobile.android.views.widgets.SpinnerActivity"
+            android:label="Spinner" >
+        </activity>
+        <activity
+            android:name="org.dieschnittstelle.mobile.android.views.widgets.CheckBoxActivity"
+            android:label="CheckBox" >
+        </activity>
+        <activity
+            android:name="org.dieschnittstelle.mobile.android.views.widgets.ToggleButtonActivity"
+            android:label="ToggleButton" >
+        </activity>
+        <activity
+            android:name="org.dieschnittstelle.mobile.android.views.widgets.RadioButtonActivity"
+            android:label="RadioButton" >
+        </activity>
+        <activity
+            android:name="org.dieschnittstelle.mobile.android.views.widgets.RadioGroupActivity"
+            android:label="RadioGroup" >
+        </activity>
+        <activity
+            android:name="org.dieschnittstelle.mobile.android.views.widgets.DatePickerActivity"
+            android:label="DatePicker" >
+        </activity>
+        <activity
+            android:name="org.dieschnittstelle.mobile.android.views.widgets.ClickableImageActivity"
+            android:label="Clickable Image" >
+        </activity>
+        <activity
+            android:name="org.dieschnittstelle.mobile.android.views.widgets.ListViewActivity"
+            android:label="ListView" >
+        </activity>
+        <activity
+            android:name="org.dieschnittstelle.mobile.android.views.widgets.OptionsMenuActivity"
+            android:label="ContextMenu" >
+        </activity>
+        <activity
+            android:name="org.dieschnittstelle.mobile.android.views.widgets.SeekBarActivity"
+            android:label="Seekbar" >
+        </activity>
+    </application>
+
+</manifest>
