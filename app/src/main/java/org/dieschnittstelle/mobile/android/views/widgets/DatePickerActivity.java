@@ -34,7 +34,7 @@ public class DatePickerActivity extends Activity {
 				dateAsText.setText(dt.toString());
 				
 				// ueberpruefe das Datum
-				if (year < 2015) {
+				if (year < 2019) {
 					startActivity(new Intent(DatePickerActivity.this,ListViewActivity.class));
 				}
 			}

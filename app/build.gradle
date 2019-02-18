@@ -5,8 +5,8 @@ android {
 
     defaultConfig {
         applicationId "org.dieschnittstelle.mobile.android.views"
-        minSdkVersion 8
-        targetSdkVersion 19
+        minSdkVersion 14
+        targetSdkVersion 27
     }
 
     buildTypes {
