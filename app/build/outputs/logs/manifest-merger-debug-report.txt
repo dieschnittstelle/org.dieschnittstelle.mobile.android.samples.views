@@ -1,165 +1,175 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:2:1-108:12
-	xmlns:android
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:2:11-69
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:2:1-104:12
 	package
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:3:5-56
-		INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:3:5-56
+		INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:5:5-30
-		INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:4:5-28
-		INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
-uses-sdk
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:7:4-9:41
-	android:targetSdkVersion
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:9:9-38
-		INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
-	android:minSdkVersion
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:8:9-34
-		INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:11:5-106:19
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:7:5-102:19
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:13:9-41
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:9:9-41
 	android:icon
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:12:9-45
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:8:9-45
 	android:theme
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:14:9-40
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:10:9-40
 activity#org.dieschnittstelle.mobile.android.views.layouts.LinearLayoutHorizontal
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:18:9-26:20
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:14:9-22:20
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:19:13-54
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:15:13-54
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:20:13-59
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:21:13-25:29
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:16:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:22:17-69
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:22:25-66
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:24:17-77
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:20:27-74
 activity#org.dieschnittstelle.mobile.android.views.layouts.LinearLayoutVertical
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:27:9-30:20
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:23:9-26:20
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:28:13-52
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:24:13-52
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:29:13-57
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:25:13-57
 activity#org.dieschnittstelle.mobile.android.views.layouts.TableLayout
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:31:9-34:20
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:27:9-30:20
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:32:13-40
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:28:13-40
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:33:13-48
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:29:13-48
 activity#org.dieschnittstelle.mobile.android.views.layouts.RelativeLayout
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:35:9-38:20
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:31:9-34:20
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:36:13-43
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:32:13-43
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:37:13-51
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:33:13-51
 activity#org.dieschnittstelle.mobile.android.views.layouts.FrameLayout
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:39:9-42:20
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:35:9-38:20
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:40:13-40
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:36:13-40
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:41:13-48
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:37:13-48
 activity#org.dieschnittstelle.mobile.android.views.layouts.ComposedLayout
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:43:9-46:20
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:39:9-42:20
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:44:13-44
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:40:13-44
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:45:13-51
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:41:13-51
 activity#org.dieschnittstelle.mobile.android.views.widgets.TextViewActivity
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:50:9-53:20
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:46:9-49:20
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:51:13-37
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:52:13-53
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:48:13-53
 activity#org.dieschnittstelle.mobile.android.views.widgets.EditTextActivity
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:54:9-57:20
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:50:9-53:20
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:55:13-52
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:51:13-52
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:56:13-53
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:52:13-53
 activity#org.dieschnittstelle.mobile.android.views.widgets.EditTextNumericActivity
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:58:9-61:20
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:54:9-57:20
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:59:13-59
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:55:13-59
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:60:13-60
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:56:13-60
 activity#org.dieschnittstelle.mobile.android.views.widgets.EditTextAutocompleteActivity
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:62:9-65:20
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:58:9-61:20
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:63:13-61
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:59:13-61
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:64:13-65
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:60:13-65
 activity#org.dieschnittstelle.mobile.android.views.widgets.SpinnerActivity
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:66:9-69:20
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:62:9-65:20
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:67:13-36
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:63:13-36
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:68:13-52
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:64:13-52
 activity#org.dieschnittstelle.mobile.android.views.widgets.CheckBoxActivity
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:70:9-73:20
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:66:9-69:20
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:71:13-37
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:67:13-37
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:72:13-53
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:68:13-53
 activity#org.dieschnittstelle.mobile.android.views.widgets.ToggleButtonActivity
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:74:9-77:20
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:70:9-73:20
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:75:13-41
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:71:13-41
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:76:13-57
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:72:13-57
 activity#org.dieschnittstelle.mobile.android.views.widgets.RadioButtonActivity
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:78:9-81:20
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:74:9-77:20
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:79:13-40
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:75:13-40
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:80:13-56
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:76:13-56
 activity#org.dieschnittstelle.mobile.android.views.widgets.RadioGroupActivity
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:82:9-85:20
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:78:9-81:20
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:83:13-39
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:79:13-39
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:84:13-55
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:80:13-55
 activity#org.dieschnittstelle.mobile.android.views.widgets.DatePickerActivity
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:86:9-89:20
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:82:9-85:20
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:87:13-39
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:83:13-39
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:88:13-55
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:84:13-55
 activity#org.dieschnittstelle.mobile.android.views.widgets.ClickableImageActivity
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:90:9-93:20
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:86:9-89:20
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:91:13-44
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:87:13-44
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:92:13-59
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:88:13-59
 activity#org.dieschnittstelle.mobile.android.views.widgets.ListViewActivity
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:94:9-97:20
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:90:9-93:20
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:95:13-37
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:91:13-37
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:96:13-53
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:92:13-53
 activity#org.dieschnittstelle.mobile.android.views.widgets.OptionsMenuActivity
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:98:9-101:20
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:94:9-97:20
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:99:13-40
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:95:13-40
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:100:13-97
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:96:13-97
 activity#org.dieschnittstelle.mobile.android.views.widgets.SeekBarActivity
-ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:102:9-105:20
+ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:98:9-101:20
 	android:label
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:103:13-36
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:99:13-36
 	android:name
-		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:104:13-52
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml:100:13-52
+uses-sdk
+INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
+INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
+INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
+INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
+		ADDED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/master/Documents/jkwrite/bht/runtime/workspaces/madworkspace_s21/org.dieschnittstelle.mobile.android.samples.views/app/src/main/AndroidManifest.xml
