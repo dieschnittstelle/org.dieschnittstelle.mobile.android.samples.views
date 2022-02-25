@@ -5,6 +5,6 @@
     android:orientation="vertical" >
     
     <EditText android:id="@+id/editText" android:layout_width="match_parent" android:layout_height="wrap_content"
-		android:hint="Eingabe" android:imeOptions="actionDone" android:singleLine="true" android:numeric="integer" android:maxLength="8"/>
+		android:hint="Eingabe" android:imeOptions="actionDone" android:singleLine="true" android:inputType="number" android:maxLength="8"/>
     
 </LinearLayout>

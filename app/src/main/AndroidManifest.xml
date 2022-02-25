@@ -52,7 +52,7 @@
             android:name=".widgets.EditTextActivity" >
         </activity>
         <activity
-            android:label="EditText (mit Einschränkungen)"
+            android:label="EditText (mit Typeinschränkung)"
             android:name=".widgets.EditTextNumericActivity" >
         </activity>
         <activity

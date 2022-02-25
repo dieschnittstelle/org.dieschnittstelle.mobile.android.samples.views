@@ -50,7 +50,7 @@ public class SeekBarActivity extends Activity {
 				seekBar.setSecondaryProgress(progress + seekBar.getMax() / 2);
 				
 				// ueberpruefe ob der Wert den Schwellenwert fuer den Aufruf der naechsten Activity erreicht hat
-				if (progress > 450) {
+				if (progress > 350) {
 					startActivity(new Intent(SeekBarActivity.this,SpinnerActivity.class));
 				}
 			}

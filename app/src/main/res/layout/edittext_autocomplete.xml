@@ -5,6 +5,6 @@
     android:orientation="vertical" >
     
     <android.widget.AutoCompleteTextView android:id="@+id/editText" android:layout_width="match_parent" android:layout_height="wrap_content"
-		android:hint="Eingabe" android:imeOptions="actionDone" android:singleLine="true" android:completionThreshold="1" android:completionHint="Wählen Sie eine Option aus"/>
+		android:hint="Eingabe: O..." android:imeOptions="actionDone" android:singleLine="true" android:completionThreshold="1" android:completionHint="Wählen Sie eine Option aus"/>
     
 </LinearLayout>
