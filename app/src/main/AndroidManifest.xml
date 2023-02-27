@@ -12,6 +12,7 @@
         <!-- activities demonstrating layouts -->
 
         <activity
+            android:exported="true"
             android:label="LinearLayout (horizontal)"
             android:name=".layouts.LinearLayoutHorizontal" >
             <intent-filter >
